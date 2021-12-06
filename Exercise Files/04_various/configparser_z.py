@@ -19,7 +19,6 @@ def main():
     print("Block 2 - ¨Parameter 1 : {}".format(v_parameter2_1))
     print("Block 2 - ¨Parameter 2 : {}".format(v_parameter2_2))
     print("Block 2 - ¨Parameter 3 : {}".format(v_parameter2_3))
-    print("git")
 
 if __name__ == "__main__":
     main()
